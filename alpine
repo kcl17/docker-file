@@ -1,0 +1,3 @@
+FROM alpine
+RUN apk -U upgrade
+CMD["echo","hello world"]
