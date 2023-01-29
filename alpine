@@ -1,3 +1,6 @@
 FROM alpine
 RUN apk -U upgrade
 CMD["echo","hello world"]
+
+Use this command to pull my docker image:
+docker pull khushichhillar/mydocker:1.0
