@@ -4,5 +4,5 @@ CMD["echo","hello world"]
 
 Use this command to pull my docker image:
 
-    docker pull khushichhillar/mydocker:1.0
+   docker pull khushichhillar/mydocker:1.0
 
